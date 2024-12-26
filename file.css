@@ -1,0 +1,50 @@
+/* .bg { 
+    background-color :#050504 ; 
+    background-image: url("back.jpg");
+      height: 720px;
+      background-position: center;
+      background-size: cover;
+      width: 1500px;
+  border: black ;
+    }  */
+  @font-face {
+      font-family: "sarrah";
+      src:url(autumn-flowers-font/AutumnFlowers-9YVZK.otf)
+  } 
+   
+  a{
+      font-family: "sarrah" ; 
+      font-size: 40px;
+      color: #FFD700;
+  } 
+  h6 { 
+    font-family: "sarrah";
+  }
+body{
+    background-color :#050504 ; 
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #881282;
+    color: white;
+  }
+  .fa{
+    padding:20px;
+    margin:15px;
+    border-radius: 7px;
+  }
